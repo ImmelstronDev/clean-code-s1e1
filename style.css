@@ -55,7 +55,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 
 .button:hover {
@@ -144,15 +144,15 @@
 
 /* Edit Task */
 .task__input-text {
-  display:none
+  display: none
 }
 
  .task_edit-mode .task__input-text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
  .task_edit-mode 
  .task__label {
-  display:none;
+  display: none;
 }
