@@ -136,8 +136,7 @@
 }
 
 /* Completed */
-.task_complete,
-.task__label {
+.task_complete {
   text-decoration: line-through;
   color: #888;
 }
@@ -147,7 +146,8 @@
   display: none;
 }
 
- .task_edit-mode .task__input-text {
+ .task_edit-mode 
+ .task__input-text {
   display: inline-block;
   width: 224px;
 }
